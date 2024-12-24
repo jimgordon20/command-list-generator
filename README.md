@@ -1,4 +1,4 @@
-This is a very simple command list maker. 
+This is a very simple command list generator. 
 It will either print all your server commands to the server console or save them as JSON. 
 The only reason I made this is that I was getting fed up with keeping track of my commands and just wanted to build my server, then get all the commands later on, and change them if needed.
 It has helped me, so hopefully, it will help you too.
